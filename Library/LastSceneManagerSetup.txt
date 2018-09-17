@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/catpap.unity
+  isLoaded: 1
+  isActive: 1
